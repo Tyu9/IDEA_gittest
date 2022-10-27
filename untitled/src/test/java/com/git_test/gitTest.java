@@ -7,6 +7,7 @@ public class gitTest {
         System.out.println("hello git3");
         System.out.println("master code");
         System.out.println("push test");
+        //远程仓库来了
     }
 
 
